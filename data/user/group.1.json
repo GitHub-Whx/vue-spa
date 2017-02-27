@@ -1,0 +1,15 @@
+{
+    "id":1,
+    "name":"super",
+    "users":[1, 2],
+    "all-users":[
+        {
+            "id":1,
+            "name":"陈文"
+        },
+        {
+            "id":2,
+            "name":"test"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "total": 2,
+    "per_page": 10,
+    "current_page": 1,
+    "last_page": 0,
+    "next_page_url": null,
+    "prev_page_url": null,
+    "from": null,
+    "to": null,
+    "data":[{
+        "id": 1,
+        "name":"陈文",
+        "email":"master@chenwen.name",
+        "last_login":"2017-01-01",
+        "roles" : [
+            "Role1", "Role2"
+        ],
+        "groups" : [
+            "Group1", "Group2"
+        ]
+    },{
+        "id": 2,
+        "name":"Demo",
+        "email":"master@chenwen.name",
+        "last_login":"2017-01-02",
+        "roles" : [
+            "Role2"
+        ],
+        "groups" : [
+            "Group1"
+        ]
+    }]
+}

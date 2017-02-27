@@ -1,0 +1,14 @@
+{
+    "code": 0,
+    "data": {
+        "user": {
+            "id": "123",
+            "name": "陈小生",
+            "email": "master@chenwen.name"
+        },
+        "dict": {
+            "phase": []
+        },
+        "permissions": ["super"]
+    }
+}
