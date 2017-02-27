@@ -2,6 +2,10 @@
 
 > a spa admin template.
 
+## 权限控制
+
+把 `data/user/info.json` 中 permissions 的值改为 `["super"]` 即可看到超级管理员权限
+
 ## Build Setup
 
 ``` bash
