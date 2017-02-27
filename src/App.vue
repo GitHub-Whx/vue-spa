@@ -110,7 +110,8 @@
         }
       },
       logout () {
-        request.post('/data/user/logout.json')
+        // 应为 post
+        request.get('/data/user/logout.json')
         .then((resp) => {
           if (resp.code === 0) {
             store.clearUserInfo();
