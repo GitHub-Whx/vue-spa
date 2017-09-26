@@ -9,6 +9,6 @@
         "dict": {
             "phase": []
         },
-        "permissions": ["welcome", "test01"]
+        "permissions": ["super", "test01"]
     }
 }
